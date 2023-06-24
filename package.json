@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Challenge #10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kris-ramirez/Object-oriented-Programming-SVG-Logo-Maker.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Kristian Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kris-ramirez/Object-oriented-Programming-SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/kris-ramirez/Object-oriented-Programming-SVG-Logo-Maker#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
+}
