@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" fill="Gold">
+      <rect x="73" y="40" width="160" height="160" fill="Gold" />
+      <text x="150" y="100" fill="Red" text-anchor="middle">SRG</text>
+    </svg>
